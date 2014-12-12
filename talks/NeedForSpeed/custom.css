@@ -1,0 +1,5 @@
+/*Some css fixes to use night theme with IPython slides*/
+.python .function .title {
+color: purple;
+}
+
